@@ -1,4 +1,4 @@
-<img width="400" src="https://github.com/memonsamina/samina-memon/blob/main/sm-s-m-letter-logo-design-initial-letter-sm-linked-circle-uppercase-monogram-logo-red-and-blue-sm-logo-s-m-design-sm-s-m-vector.jpg">
+<img width="500" src="https://github.com/memonsamina/samina-memon/blob/main/sm-s-m-letter-logo-design-initial-letter-sm-linked-circle-uppercase-monogram-logo-red-and-blue-sm-logo-s-m-design-sm-s-m-vector.jpg">
 
 <h1 align="center">Hi 👋, I'm memonsamina</h1>
 <h3 align="center">A passionate frontend developer</h3>
